@@ -1,0 +1,6 @@
+{
+  "name": "Place Bakehouse & Coffee",
+  "description": "A premium customer-facing web application for Place Bakehouse & Coffee featuring artisanal baking, delicious gourmet dishes, specialty coffees, and online booking & orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
